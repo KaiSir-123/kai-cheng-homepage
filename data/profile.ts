@@ -10,7 +10,7 @@ export const profile = {
   domain: "Mobile Robot Localization · Multisensor Fusion · Factor Graph Optimization",
   description:
     "Research focuses on mobile robot localization, multisensor fusion, factor graph optimization, and SLAM for intelligent robotic systems.",
-  siteUrl: "https://kaicheng-research.netlify.app",
+  siteUrl: "https://kai-cheng-research.netlify.app",
   researchDirections: [
     "Mobile Robot Localization",
     "Multisensor Fusion",
